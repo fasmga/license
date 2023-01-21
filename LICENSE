@@ -1,4 +1,4 @@
-Paperboat Open Source License v1 (POSL)
+Paperboat Open Source License v1.1 (POSL)
 ;; © 2020–2023, The Paperboat Project
 ;; https://paperboat.cc/license
 
@@ -7,31 +7,25 @@ Paperboat Open Source License v1 (POSL)
 ;; shape or form as described here, you agree to accept all of the following
 ;; terms and conditions.
 
-;; Last updated 2022-07-25
+;; Last updated 2023-01-21
 
 ⋯≡ Product Terms and Conditions for use, modifications, reproduction, distribution and contributions ≡⋯
 
 ;—————————;—————————;—————————;—————————;—————————;—————————;—————————;—————————;
 
 Definitions:
-	├ "Paperboat", "The Paperboat Project", "Team", "Staff", "we", "us" shall
-	  mean the developer team behind the Paperboat
-	  Project, including but not limited to the moderation team and the Quality
-	  Assurance team.
-	
-	├ "Service", "Product", "Platform" shall refer to the software solutions
-	  offered, developed and/or distributed by Paperboat.
+	├ "Team", "Staff", "we", "us" shall mean the developer team behind the software,
+          including but not limited to the moderation team and the Quality Assurance team.
 
 	├ "License", "License document", "Terms and Conditions", "ToS",
 	  "License agreement" shall refer to this license document representing the
-	  legal terms and conditions to be followed when using, reproducing or
-	  any of the products and services created by Paperboat that are
-	  affected by it.
+	  legal terms and conditions to be followed when using or reproducing this software
+	  which is affected by it.
 
 	├ "You", "Your" shall refer to the end user accepting and abiding to this
 	  license.
 
-	├ "Source", "Source code", "Code", "Software", "Program" shall mean the source
+	├ "Service", "Product", "Platform", "Source", "Source code", "Code", "Software", "Program" shall mean the source
 	  code of the software, program, service or product taking advantage of this
 	  license. This includes, and is not limited to documentation, wikis and
 	  repositories.
@@ -49,11 +43,15 @@ Permissions:
 	├ You are granted the right to modify and/or redistribute the source code.
 
 	└ You are granted the right to take advantage, modify, fork and/or
-	  redistribute Paperboat software for personal and commercial use.
+	  redistribute this software for personal and commercial use.
 
 Conditions:
 	├ You should include the License and copyright notice in any eventual forks,
 	  modifications, derivative work and contributions.
+	  
+	├ Modified versions of the software need to be licensed under POSL and
+	  have their code available to anyone interested. This does not apply to
+	  derivative work.
 	
 	└ You should state your changes to the original code.
 
