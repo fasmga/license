@@ -44,7 +44,7 @@
     It is, as an example, used as the terms of <a href="https://docs.paperboat.cc/Typio#Legal">Typio</a>.
     <br>
     <br>
-    <h3><img src="https://img.shields.io/badge/-NEW!-red"> POSL-Lite</h3>
+    <h3><img src="https://img.shields.io/badge/-NEW!-red?style=for-the-badge"> POSL-Lite</h3>
     The <b>POSL-Lite</b> is a condition-free license, lighter than both the POSL and the Apache but arguably stronger than the MIT, written to be used as the terms for most of Paperboat's internal open-source software. It protects the code and its author while allowing users to run the software, with any modification, without worries.
     <br>
     <br>
